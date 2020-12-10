@@ -1,0 +1,21 @@
+Profile :- Cloud Developer / SDE
+// 1st Written
+MCQ Questions On Java , 3 coding questions.
+
+// 2nd Round (Technical) 
+
+Merge Two Sorted LinkedList and revesre the same once merged.
+Java , MongoDb Questions.
+
+// 3rd Round System Design
+
+Design Google Drive / Drop Box.
+
+// 4th Round Techno Mangerial
+Behavioural round , Various Math based problem (Ex:- Lines of codes, Measure 5L Water).
+
+// 5th Round (Cultural Round)
+Behavioural Questions, Questions related to scrum.
+
+// 6th Round (By VP) 
+15 mins basic technical and behavioural round.
