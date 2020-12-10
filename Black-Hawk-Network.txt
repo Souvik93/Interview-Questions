@@ -1,0 +1,12 @@
+// 1st Round (Technical)
+1 Coding Question with optimazation,
+Java & Angular related questions
+
+// 2nd Round (Technical)
+1 coding question . Find largest words in a sentence and print the frquency. (Example - I am a very very good boy. Output should be very -> 2).
+Java Questions, Microservice related questions.
+
+// 3rd Round (Technical By Engineering Manager)
+System Design :- Design elevalator system.
+Design arvhitecture of your project.
+Design Queue using single stack.
